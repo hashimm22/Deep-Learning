@@ -28,4 +28,5 @@ plt.grid(True)
 plt.show()
 
 OUTPUT:
-https://github.com/Dragon2627/Deep-Learning/issues/1#issue-3316963810
+<img width="709" height="644" alt="Screenshot 2025-08-06 112136" src="https://github.com/user-attachments/assets/579291ca-0af1-407a-afc3-4f57cf080572" />
+
