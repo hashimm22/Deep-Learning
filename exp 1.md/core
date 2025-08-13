@@ -26,3 +26,6 @@ plt.xlabel('Epoch')
 plt.ylabel('Loss')
 plt.grid(True)
 plt.show()
+
+OUTPUT:
+https://github.com/Dragon2627/Deep-Learning/issues/1#issue-3316963810
