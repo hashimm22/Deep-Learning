@@ -53,5 +53,4 @@ df = pd.DataFrame({
 df
 
 OUTPUT:
-
-https://github.com/student3020srm-design/Deep-learning/issues/5#issue-3316901129
+<img width="1046" height="386" alt="Screenshot 2025-08-13 101754" src="https://github.com/user-attachments/assets/cc8daa1a-9ab0-4028-9472-f648b437dc97" />
