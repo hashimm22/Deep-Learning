@@ -30,4 +30,5 @@ for x in inputs:
     print(f"Input: {x}, Perceptron Output: {pred}")
 
 OUTPUT:
-https://github.com/student3020srm-design/Deep-learning/issues/2#issue-3316865080
+<img width="878" height="597" alt="Screenshot 2025-08-06 114827" src="https://github.com/user-attachments/assets/2cbf4895-826d-480b-94cc-b029604e6e48" />
+
