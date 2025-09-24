@@ -1,4 +1,4 @@
-<img width="460" height="115" alt="Screenshot 2025-09-24 112812" src="https://github.com/user-attachments/assets/6b47d2e1-f587-4f63-b2ac-dfc323cf6088" />import pandas as pd
+import pandas as pd
 test_cases = [
     {
         "Input Sentence": "Elon Musk founded SpaceX",
